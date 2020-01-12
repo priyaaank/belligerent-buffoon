@@ -5,4 +5,4 @@ author: "Priyank"
 comments: true
 ---
 
-This is going to happen in this blog. Watch out
+Writing is an excellent mechanism to defragment the thoughts and converge onto a viewpoint. It helps in realizing 
