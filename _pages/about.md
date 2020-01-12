@@ -5,11 +5,10 @@ author: "Priyank"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Over the years I have started demonstrating acute apathy for the world around me. My lack of opinions is rooted in the knowledge deficit that I have built by not keeping up with the world around. Writing is an excellent mechanism to defragment the thoughts and bring clarity into thoughts. Coupled with the intent to dig deeper, I hope it will make me well rounded in opinions as well as the reasoning supporting them. 
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+I have been guilty of picking sparse information and forge them into a _seemingly_ formidable opinion, despite knowing that half-backed knowledge is more dangerous than complete lack of knowledge. So this blog is an attempt to pen down dilemmas, questions, opinions and facts in the form of a question to see if it can help me improve overall awareness and rational thinking both. 
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+I hope I'll be able to fearlessly tread the tunnels where I have not ventured before. I hope to question every turn, dispell existing biases while acquiring new ones and build a blueprint of rabbit holes in my mind. 
 
 Thanks for reading!
